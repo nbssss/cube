@@ -1,4 +1,4 @@
-## Proste wykorzystanie biblioteki devDepy EyeShot
+## Proste wykorzystanie biblioteki devDept EyeShot
 
 Projekt przedstawia wykorzystanie biblioteki devDept EyeShot do tworzenia prostej siatki 3D sześcianów w aplikacji Windows Forms. Każdy sześcian ma losowy kolor, a razem tworzą kostkę przypominającą Kostkę Rubika.
 
@@ -19,4 +19,4 @@ Główna logika jest zaimplementowana w klasie `MainForm`, gdzie:
 
 ### Zrzut Ekranu
 
-![Siatka 3D Sześcianów](cube/cube.png)
+![Siatka 3D Sześcianów]("cube.png")
