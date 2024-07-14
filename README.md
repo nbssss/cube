@@ -19,4 +19,4 @@ Główna logika jest zaimplementowana w klasie `MainForm`, gdzie:
 
 ### Zrzut Ekranu
 
-![Siatka 3D Sześcianów]("cube.png")
+![Siatka 3D Sześcianów](cube.png)
